@@ -150,7 +150,10 @@ p::selection {
   background-color: seagreen;
   color: white;
 }
-
+input.btn {
+  background-color: #f63232;
+  text-emphasis-color: #71d300;
+}
 /*responsive styles */
 
 @media screen and (max-width: 4000px) {
